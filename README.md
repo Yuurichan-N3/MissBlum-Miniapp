@@ -48,7 +48,7 @@ Sebelum memulai, pastikan Anda memiliki:
 1. **Jalankan Script**
    Dari terminal, ketik:
    ```bash
-   bot.rb
+   ruby bot.rb
    ```
 
 2. **Pantau Output**
