@@ -1,4 +1,4 @@
-## Miss Blum Task Automator
+# Miss Blum Task Automator
 
 adalah skrip Node.js untuk mengotomatiskan tugas di platform **Miss Blum**, seperti check-in harian, menyelesaikan tugas, menambah tiket melalui tap-to-earn, dan voting untuk influencer. Skrip ini dirancang untuk mempermudah pengguna dengan antarmuka CLI yang interaktif, log berwarna, dan penanganan error yang andal.
 
