@@ -117,15 +117,6 @@ miss-blum-task-automator/
 - **Log tidak berwarna**:
   - Pastikan terminal mendukung ANSI colors (Termux seharusnya mendukung).
 
-## 🙌 Kontribusi
-
-Kami menyambut kontribusi! Silakan:
-1. Fork repository ini.
-2. Buat branch baru: `git checkout -b fitur-anda`.
-3. Commit perubahan: `git commit -m "Menambah fitur X"`.
-4. Push ke branch: `git push origin fitur-anda`.
-5. Buat Pull Request.
-
 ## 📜 Lisensi
 
 Script ini didistribusikan untuk keperluan pembelajaran dan pengujian. Penggunaan di luar tanggung jawab pengembang.
