@@ -137,20 +137,3 @@ Untuk update terbaru, bergabunglah di grup **Telegram**: [Klik di sini](https://
 ## 💡 Disclaimer
 Penggunaan bot ini sepenuhnya tanggung jawab pengguna. Kami tidak bertanggung jawab atas penyalahgunaan skrip ini.
 ```
-
-   - Solusi untuk masalah umum seperti error `gradient-string`, file tidak ditemukan, atau masalah koneksi.
-
-8. **Kontribusi**:
-   - Panduan sederhana untuk berkontribusi agar ramah untuk open-source.
-
-## 📜 Lisensi  
-
-Script ini didistribusikan untuk keperluan pembelajaran dan pengujian. Penggunaan di luar tanggung jawab pengembang.  
-
-Untuk update terbaru, bergabunglah di grup **Telegram**: [Klik di sini](https://t.me/sentineldiscus).
-
-
----
-
-## 💡 Disclaimer
-Penggunaan bot ini sepenuhnya tanggung jawab pengguna. Kami tidak bertanggung jawab atas penyalahgunaan skrip ini.
