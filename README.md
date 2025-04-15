@@ -138,30 +138,6 @@ Untuk update terbaru, bergabunglah di grup **Telegram**: [Klik di sini](https://
 Penggunaan bot ini sepenuhnya tanggung jawab pengguna. Kami tidak bertanggung jawab atas penyalahgunaan skrip ini.
 ```
 
-### Penjelasan README:
-
-1. **Judul dan Deskripsi**:
-   - Judul besar dengan emoji untuk menarik perhatian.
-   - Deskripsi singkat tentang fungsi skrip dan peringatan penggunaan.
-
-2. **Fitur**:
-   - Daftar fitur utama, termasuk penjelasan log berwarna, tap-to-earn dengan delay, dan antarmuka tabel.
-
-3. **Instalasi**:
-   - Langkah-langkah jelas untuk mengatur Node.js, meng-clone repo, install dependensi, dan menyiapkan `data.txt`.
-   - Menyebutkan potensi masalah dengan Node v23.x.
-
-4. **Penggunaan**:
-   - Instruksi menjalankan skrip dan interaksi dengan prompt.
-   - Contoh output untuk memberikan gambaran hasil eksekusi.
-
-5. **Dependensi**:
-   - Tabel dengan nama paket, versi perkiraan, dan fungsinya untuk transparansi.
-
-6. **Struktur File**:
-   - Penjelasan singkat isi direktori proyek.
-
-7. **Troubleshooting**:
    - Solusi untuk masalah umum seperti error `gradient-string`, file tidak ditemukan, atau masalah koneksi.
 
 8. **Kontribusi**:
